@@ -27,7 +27,7 @@ To activate portable mode, create "memreduct.ini" in application folder, or move
 ```
 
 ### System requirements:
-- Windows 7, 8, 8.1, 10, 11 64-bit/ARM64
+- Windows 7, 8, 8.1, 10, 11 (64-bit/ARM64)
 - An SSE2-capable CPU
 - <s>KB2533623</s> [KB3063858](https://www.microsoft.com/en-us/download/details.aspx?id=47442) update for Windows 7 was required
 
